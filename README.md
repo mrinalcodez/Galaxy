@@ -9,7 +9,9 @@ python --m venv virtual_env
 and put all the files and folders into the folder of the virtual environment. 
 The next thing is to install the required version of Kivy library. To install Kivy-2.3.0 for cpython 3.8 install the file Kivy-2.3.0-cp38-cp38-win_amd64.whl for windows x64.
 Execute the command
-```pip install Kivy```
+```
+pip install Kivy
+```
 and it will install the kivy library.
 Once this is done then the environment will be setup and we can run the program from any IDE
 
